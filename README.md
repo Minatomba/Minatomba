@@ -1,19 +1,40 @@
-🚀 Michael Badjanov – Backend Developer
-Welcome! 👋
-I'm Michael Badjanov, a young man with great ambition and high aspiration . I specialize in Backend Development and Software Analysis, with hands-on experience in backend applications.
+# 🚀 Michael Badjanov – Backend Developer
 
-🌟 About Me
-🎓 Self-made Developer | Drived by passion learning new stuff in IT field!
+👋 Hi there! I'm **Michael Badjanov**, a passionate and ambitious backend developer with a strong drive for continuous learning and growth in the IT field.
 
-📌 Tech stack: Java, SQL, Git, Docker.
+---
 
-🔍 Former Software Developer @ Finantech | Hands-on experience in requirement analysis and backend solutions.
+## 🌟 About Me
 
-🎨 Creative mindset | Background in art & UI/UX with a strong problem-solving mindset.
+🎓 **Self-taught Developer** | Driven by passion for technology and innovation  
+🎨 Creative mindset with a background in **Art & UI/UX**  
+🧠 Strong **problem-solving** abilities and a love for clean, efficient code
 
-Skills
-Languages
-Java 
+---
 
-Tech & Frameworks
-Spring Boot Docker 
+## 🔧 Tech Stack
+
+- **Languages:** Java, SQL  
+- **Tools & Frameworks:** Spring Boot, Docker, Git  
+- **Other:** Software Analysis, Requirement Gathering, System Design
+
+---
+
+## 💼 Experience
+
+**Former Software Developer @ Finantech**  
+- Hands-on experience with backend application development  
+- Skilled in requirement analysis and delivering scalable solutions  
+
+---
+
+## ✨ What Drives Me
+
+I’m constantly exploring new technologies, building meaningful projects, and improving my skills. Whether it’s designing robust backend systems or analyzing software requirements, I bring both creativity and technical excellence to the table.
+
+---
+
+## 📫 Let’s Connect!
+
+- 📧 [Email](mailto:michael.badjanov@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/minatomba)
