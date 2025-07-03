@@ -7,7 +7,6 @@
 ## 🌟 About Me
 
 🎓 **Self-taught Developer** | Driven by passion for technology and innovation  
-🎨 Creative mindset with a background in **Art & UI/UX**  
 🧠 Strong **problem-solving** abilities and a love for clean, efficient code
 
 ---
